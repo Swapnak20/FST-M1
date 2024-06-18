@@ -8,7 +8,7 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
         features = "Features",
         glue = {"stepDefinitions"},
-        tags = "@activity3,@activity4"
+        tags = "@activity3,@activity4,@activity5"
 )
 
 public class ActivitiesRunner {
