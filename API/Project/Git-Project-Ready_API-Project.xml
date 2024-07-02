@@ -228,7 +228,7 @@
     <con:oAuth2Profile>
       <con:name>PersonalAccessToken</con:name>
       <con:type>OAuth 2.0</con:type>
-      <con:accessToken>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</con:accessToken>
+      <con:accessToken></con:accessToken>
       <con:accessTokenPosition>HEADER</con:accessTokenPosition>
       <con:accessTokenStatus>ENTERED_MANUALLY</con:accessTokenStatus>
       <con:accessTokenStartingStatus>ENTERED_MANUALLY</con:accessTokenStartingStatus>
